@@ -1,4 +1,4 @@
-# React and Tailwind CSS CRUD Web Application
+# BOOKSTORE CRUD  Application
 
 This is a simple web application built with React and Tailwind CSS that allows you to perform basic CRUD (Create, Read, Update, Delete) operations on a list of items. It's a great starting point for learning and understanding how to build web applications with these technologies.
 
